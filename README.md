@@ -8,3 +8,9 @@ zooms your font in a bit).
 - `Start Focused Mode` - start focused mode
 - `Leave Focused Mode` - disable fullscreen, zoom out
 - `Toggle Focused Mode` - start focused mode if it is not active, leave if it is
+
+## Releases
+
+### 0.0.1
+
+First release.
